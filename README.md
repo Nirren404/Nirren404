@@ -7,9 +7,9 @@
 <img src="./assets/images/githubstarter.gif" />
 </p>
 
-<p align="right">
+<p align="center">
   <a href="https://www.linkedin.com/in/nirari-yaro-78912a287/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
 </p>
 
