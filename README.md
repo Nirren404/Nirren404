@@ -1,4 +1,6 @@
-## Hello world👋
+<h1 align="center">Hello world! 👋 I'm Nirari Yaro</h1>
+<h2 align="center">Junior IT Technician – Full-Stack Developer</h2>
+
 
 
 <p align="center">
