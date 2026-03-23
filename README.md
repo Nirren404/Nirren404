@@ -1,5 +1,6 @@
 <h1 align="center">Hello world! 👋 I'm Nirari Yaro</h1>
 <h2 align="center">Junior IT Technician – Full-Stack Developer</h2>
+<h2 align="center">"𝙽𝚘 𝚜𝚞𝚌𝚑 𝚝𝚑𝚒𝚗𝚐 𝚊𝚜 𝚊 𝚋𝚊𝚍 𝚜𝚝𝚞𝚍𝚎𝚗𝚝, 𝚘𝚗𝚕𝚢 𝚊 𝚋𝚊𝚍 𝚝𝚎𝚊𝚌𝚑𝚎𝚛"</h2>
 
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
