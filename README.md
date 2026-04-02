@@ -1,45 +1,82 @@
 <h1 align="center">Hello world! 👋 I'm Nirari Yaro</h1>
-<h2 align="center">Junior IT Technician – Full-Stack Developer</h2>
-<h2 align="center">"𝙽𝚘 𝚜𝚞𝚌𝚑 𝚝𝚑𝚒𝚗𝚐 𝚊𝚜 𝚊 𝚋𝚊𝚍 𝚜𝚝𝚞𝚍𝚎𝚗𝚝, 𝚘𝚗𝚕𝚢 𝚊 𝚋𝚊𝚍 𝚝𝚎𝚊𝚌𝚑𝚎𝚛"</h2>
+<h3 align="center">Junior IT Technician • Full-Stack Developer</h3>
 
+<p align="center"><i>"No such thing as a bad student, only a bad teacher"</i></p>
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-  ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-  ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-1DA1F2?logo=cisco&logoColor=white&style=for-the-badge)
-  ![Network Security](https://img.shields.io/badge/-Network_Security-FF6F61?logo=fortinet&logoColor=white&style=for-the-badge)
-  ![Network Administration](https://img.shields.io/badge/-Network_Admin-6f42c1?logo=ibm&logoColor=white&style=for-the-badge)
+---
 
-  
+## ⚡ Tech Stack
 
-
+### 🎨 Frontend
 <p align="center">
-<img src="./assets/images/githubstarter.gif" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF"/>
 </p>
 
+### 🧠 Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/Mongoose-111111?style=for-the-badge&logo=mongoose&logoColor=880000"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+</p>
+
+### 🌐 Networking
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-111111?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
+  <img src="https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge&logo=fortinet&logoColor=EE3124"/>
+  <img src="https://img.shields.io/badge/Network%20Administration-111111?style=for-the-badge&logo=ibm&logoColor=0F62FE"/>
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="" width="500"/>
+</p>
+
+<p align="center"><i>"Stop acting like you know the way ahead, like you know the rules. There are no rules man, we're lost."</i></p>
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nirari-yaro-78912a287/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 </p>
 
-<h2 align="center">
-  💼 <a href="https://comfy-bombolone-f4b66d.netlify.app/" target="_blank">My Portfolio Project</a>
-</h2>
+---
 
-
-
+## 💼 Portfolio
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirren404&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <a href="https://comfy-bombolone-f4b66d.netlify.app/" target="_blank">
+    🚀 View My Work
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirren404&theme=tokyonight&show_icons=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirren404&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirren404&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirren404&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirren404&theme=tokyonight&layout=compact"/>
 </p>
