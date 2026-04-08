@@ -1,7 +1,7 @@
 <h1 align="center">Hello world! 👋 I'm Nirari Yaro</h1>
 <h3 align="center">Junior IT Technician • Full-Stack Developer</h3>
 
-<p align="center"><i>"No such thing as a bad student, only a bad teacher"</i></p>
+<p align="center"><i>"No such thing as a bad student, only a bad teacher"-Nariyoshi Keisuke Miyagi</i></p>
 
 ---
 
